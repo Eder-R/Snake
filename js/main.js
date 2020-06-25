@@ -53,7 +53,7 @@ window.onload = function () {
 
 			if (trail[i].x == px && trail[i].y == py) {
 				vx = vy = 0;
-				tail = 5;
+				tail = 2;
 			}
 		}
 

@@ -6,7 +6,7 @@ html,body {
 }
 
 canvas{
-    background: #9ccb95;
+    /* background: #9ccb95; */
     margin: auto;
     position: absolute;
     top: 0;
