@@ -1,8 +1,1 @@
-Jogo Classico feito em JavaScript seguindo videos do canal
-Filipe alves
-
-
-
-
-
-https://www.youtube.com/watch?v=JqnJZXacWpc... pate 7
+(2020/06/25)Infelizmente não pude fazer o plano original mas este é um protótipo...
